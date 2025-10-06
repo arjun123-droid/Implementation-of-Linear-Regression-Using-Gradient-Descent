@@ -76,6 +76,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+```
 R&D Spend  Administration  Marketing Spend       State     Profit
 0  165349.20       136897.80        471784.10    New York  192261.83
 1  162597.70       151377.59        443898.53  California  191792.06
@@ -188,6 +189,7 @@ R&D Spend  Administration  Marketing Spend       State     Profit
 
 [[-0.42925552]]
 Predicted value: [[192932.45813544]]
+```
 
 
 ## Result:
